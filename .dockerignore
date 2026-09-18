@@ -1,0 +1,5 @@
+.git
+.gitignore
+output
+sources/.gitignore
+**/*.backup.*

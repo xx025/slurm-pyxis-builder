@@ -1,0 +1,5 @@
+output/*/
+output/*.backup.*/
+sources/*.tar.bz2
+sources/*.tar.gz
+sources/SHA256SUMS.*
